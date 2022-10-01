@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663868262 source:d:\my stuff\amit embedded systems diploma\codeblocks projects and files\asg_6-1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
